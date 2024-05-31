@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0a73140.css",
+    "main.js": "/static/js/main.d9806c99.js",
+    "static/js/453.4866b0af.chunk.js": "/static/js/453.4866b0af.chunk.js",
+    "static/media/loginlogo.svg": "/static/media/loginlogo.87680bf74aa18510f5fb06caba2566bc.svg",
+    "static/media/ToidLogoGRAY.svg": "/static/media/ToidLogoGRAY.9b18fa0bec48d8f7afd09e7522908956.svg",
+    "static/media/ToidLogoGRAY2.svg": "/static/media/ToidLogoGRAY2.98fa54c052aa8d70877335b783030b4b.svg",
+    "index.html": "/index.html",
+    "main.e0a73140.css.map": "/static/css/main.e0a73140.css.map",
+    "main.d9806c99.js.map": "/static/js/main.d9806c99.js.map",
+    "453.4866b0af.chunk.js.map": "/static/js/453.4866b0af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0a73140.css",
+    "static/js/main.d9806c99.js"
+  ]
+}

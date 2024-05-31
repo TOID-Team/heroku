@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  out-source-postgres:
+    image: postgres:12
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1111
+      POSTGRES_DB: out-source
+    ports:
+      - '5432:5432'
+    volumes:
+      - ./data-postgres:/var/lib/postgresql/data
+
+  out-source-redis:
+    image: redis:6
+    ports:
+      - '6379:6379'
